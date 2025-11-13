@@ -15,7 +15,7 @@ chore : 기타(폴더 구조 변경, 파일명 수정 등)<br>
     update: BOJ 11047 solution (fix wrong greedy logic)
     update: BOJ 1000 solution (improve input handling)
     
-    refactor: BOJ 1931 solution (use sort + greedy approach)
+    refactor: BOJ 1931 (use sort + greedy approach)
 
     doc: Add explanation to BOJ 1000 README
     doc: Update repo README with folder structure
